@@ -1,0 +1,4 @@
+pytest
+pytest-bdd>=8.0
+pytest-randomly
+requests
